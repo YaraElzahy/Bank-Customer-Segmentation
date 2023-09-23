@@ -3,10 +3,10 @@ Unlocking Insights from Banking Data 🚀 - Dive into the fascinating world of b
 
 ## Group Information
 - Team Members:
-  - AbdelHafez, Yasmine (20398568)
-  - El-Ghobashy, Manar (20398569)
-  - El-Zahy, Yara (20398570)
-  - Sabry, Yasmine (20398566)
+  - AbdelHafez, Yasmine
+  - El-Ghobashy, Manar
+  - El-Zahy, Yara
+  - Sabry, Yasmine
 
 ## Introduction
 This project explores bank customer segmentation using Apache Spark's PySpark. PySpark is a Python API for Apache Spark, a distributed computing platform. We will utilize PySpark's capabilities for data analysis, machine learning, and clustering to create valuable customer clusters. These clusters can be used for targeted promotions, market expansion, and attracting new customers.
